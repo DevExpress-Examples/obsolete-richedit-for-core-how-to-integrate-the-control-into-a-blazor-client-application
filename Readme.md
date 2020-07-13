@@ -6,6 +6,9 @@
  
 This example illustrates a possible way to integrate the client part of ASP.NET Core RichEdit into a Blazor client application using steps from the following help topic: [Rich Text Editor > Get Started > Blazor WebAssembly Application](https://docs.devexpress.com/AspNetCore/401870/rich-edit/get-started/blazor-web-assembly-application).
 
+***See also:***  
+[RichEdit for ASP.NET Core - How to integrate the control into a Blazor server application](https://github.com/DevExpress-Examples/rich-edit-for-asp-net-core-how-to-integrate-the-control-into-a-blazor-server-application)
+
 <!-- default file list -->
 *Files to look at*:
 
