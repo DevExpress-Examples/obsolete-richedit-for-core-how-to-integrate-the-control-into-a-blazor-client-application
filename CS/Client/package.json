@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "\"ISC\"б",
+  "license": "ISC",
   "dependencies": {
     "devextreme": "20.1.4",
     "devexpress-richedit": "20.1.4"
