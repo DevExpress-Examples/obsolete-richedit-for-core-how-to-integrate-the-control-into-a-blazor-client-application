@@ -8,7 +8,7 @@
  This example illustrates how to integrate the client part of ASP.NET Core [RichEdit](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) into a Blazor client application.
 
 > **NOTE** 
-Starting with v22.2, the [DevExpress Blazor product line](xref:400725) includes the [Rich Text Editor](xref:DevExpress.Blazor.RichEdit.DxRichEdit) UI component that you can use in Blazor client applications.
+Starting with v22.2, the [DevExpress Blazor product line](https://docs.devexpress.com/Blazor/400725/blazor-components) includes the [Rich Text Editor](https://docs.devexpress.com/Blazor/DevExpress.Blazor.RichEdit.DxRichEdit) UI component that you can use in Blazor client applications.
 
 ## Requirements
 - To use the RichEdit control in a Blazor application, you need to have a [Universal, DXperience, or ASP.NET subscription](https://www.devexpress.com/buy/net/).
